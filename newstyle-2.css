@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1210px;
+    margin: 0 auto;
+}
+
+.bg-ps{
+    background-color: #f7f7f7;
+}
+.box {
+    padding-top: 102px;
+    height: 882px;
+    background-color: #f7f7f7;
+}
+.block-1 {
+    display: inline-block;
+    width: 550px;
+    background-image: url("images/iphone-s.png");
+    background-repeat: no-repeat;
+    height: 780px;
+    overflow: hidden;
+}
+
+.block-1 img {
+    padding: 160px 0 0 69px;
+}
+.block-2{
+    display: inline-block;
+    width: 550px;
+    vertical-align: top;
+    margin-left: 80px;
+    margin-top: 70px;
+    height: 780px;
+}
+.block-2 h3 {
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: underline;
+}
+.block-2 p {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 40px;
+}
+
+.box-fudi-4 {
+    background-image: url("images/bg-shadow.png");
+    height: 450px;
+
+}
+
+.cont {
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+.bg-5 h4 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 45px;
+
+}
+.panc span{
+    border-bottom: 2px solid brown;
+}
+
+.menu-list {
+    padding-left: 0;
+}
+
+.list-item {
+
+    display: inline-block;
+    width: 19%;
+
+}
+.list-item img {
+    width: 100%;
+}
+
+.nu-list {
+    padding-left: 0;
+}
+
+.nu-list-item {
+    display: inline-block;
+    width: 19%;
+    margin-left: 10px;
+}
+
+.nu-list-item h2{
+    font-size: 36px;
+    text-align: center;
+}
+
+.nu-list-item h5 {
+    font-size: 16px;
+    text-align: center;
+}
+
+.list-1 {
+    margin-left: 0;
+}
+
+
+footer {
+    background-color: #f7f7f7;
+    height: 95px;
+    padding-top: 45px;
+}
+
+
+.footer-box-1 {
+    color: #c5c5c5;
+    display: inline-block;
+    margin-right: 720px;
+}
+
+.footer-box-2 {
+    display: inline-block;
+}
+
+.footer-box-2 span {
+    color: #8b8b8b;
+}
